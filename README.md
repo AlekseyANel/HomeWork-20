@@ -1,2 +1,2 @@
-# HomeWork-20+ # HomeWork-24 в этом же проекте.
-Раннер testng.xml
+# HomeWork-20 is not full.
+Look at # HomeWork-24
