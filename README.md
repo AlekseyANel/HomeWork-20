@@ -1,3 +1,5 @@
 # HomeWork-20 is not full.
-It's only a practice
-Look at # HomeWork-24
+Look at # HomeWork-24.
+It's only a practice.
+
+
