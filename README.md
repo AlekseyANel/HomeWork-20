@@ -9,4 +9,5 @@ It's only a practice.
 Получить заголовок страницы.
 Повторите шаги, описанные выше, то есть 2 и 3 для комбинации других двух ключевых слов.
 2) LoginPass. DataProvider for login and password
+3) Launch this test with Listeners by XML-tesng file
 
